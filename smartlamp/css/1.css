@@ -1,0 +1,13 @@
+.float{
+  position:fixed;
+  width:209px;
+  height:45px;
+  bottom:40px;
+  right:40px;
+  border-radius:28px;
+  text-align:center;
+}
+
+.my-float{
+  margin-bottom:4px;
+}
